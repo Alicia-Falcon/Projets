@@ -1,3 +1,6 @@
+/*
+* @author Alicia Falcon
+*/
 #ifndef INTERFACE_H
 #define INTERFACE_H
 #define Seconde 1000000L
