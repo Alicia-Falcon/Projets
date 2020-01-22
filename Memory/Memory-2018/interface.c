@@ -1,3 +1,6 @@
+/*
+* @author Alicia Falcon
+*/
 #include<stdlib.h>
 #include<graph.h>
 #include<stdio.h> 
