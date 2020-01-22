@@ -1,3 +1,6 @@
+/*
+* @author Alicia Falcon
+*/
 but : memory
 
 OFILES = menu.o \
