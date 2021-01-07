@@ -1,3 +1,8 @@
+/*
+* Bibliothèque graphique fournit par l'IUT de Fontainebleau.
+*/
+
+
 1) utiliser le script configure pour generer les Makefiles
 	./configure
 
